@@ -56,6 +56,14 @@ const projectsData = [
       'ERP-based business solution for inventory, finance, and workflow automation. Built using React.js and Material-UI.',
     link: 'https://your-effitrac-link.com',
   },
+  {
+    id: 8,
+    title: 'The Princeton Review Singapore',
+    image: '/princeton_review.png',
+    description:
+      'A responsive educational website built using WordPress, PHP, HTML, CSS, and JavaScript, showcasing test prep and admissions services. Optimized for performance and mobile usability.',
+    link: 'https://www.princetonreview.sg/',
+  },
 ];
 
 export default projectsData;
